@@ -56,16 +56,16 @@
 
 # Featured Projects
 
-### Spendex
+### 💸 Spendex
 Digital spending tracker designed to help users manage their personal expenses.
 
-### Crumbs
+### 🥖 Crumbs
 Ordering and Inventory Management System developed as an academic project.
 
-### SynCollect+
+### 📋 SynCollect+
 Debt Collection Management System for Top Priority Collection Agency.
 
-### HATI *(Capstone Project)*
+### 🐸 HATI *(Capstone Project)*
 A virtual companion that helps individuals with social anxiety symptoms recreate daily social situations and reflect on their responses.
 
 ---
