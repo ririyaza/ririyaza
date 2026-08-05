@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Precious!
+# Hello, I'm Precious!
 
 ### Bachelor of Science in Information Technology Student
 **Major in Network Information System**
@@ -13,19 +13,16 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 • Aspiring **Cybersecurity Professional**
-
 • Interested in **Ethical Hacking**, **Digital Forensics**, and **Network Security**
-
 • I enjoy creating projects that solve real-world problems while continuously improving my technical skills.
-
 • Outside technology, you'll usually find me reading, writing, or drawing.
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -59,21 +56,21 @@
 
 # Featured Projects
 
-### 💰 Spendex
+### Spendex
 Digital spending tracker designed to help users manage their personal expenses.
 
-### 🍞 Crumbs
+### Crumbs
 Ordering and Inventory Management System developed as an academic project.
 
-### 🧾 SynCollect+
+### SynCollect+
 Debt Collection Management System for Top Priority Collection Agency.
 
-### 🐸 HATI *(Capstone Project)*
+### HATI *(Capstone Project)*
 A virtual companion that helps individuals with social anxiety symptoms recreate daily social situations and reflect on their responses.
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
 - Build cybersecurity projects
 - Become comfortable using Linux
@@ -82,7 +79,7 @@ A virtual companion that helps individuals with social anxiety symptoms recreate
 
 ---
 
-# 📫 Connect with Me
+# Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preciousmae.taleon@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-mae-taleon-344951319?utm_source=share_via&utm_content=profile&utm_medium=member_android/)
