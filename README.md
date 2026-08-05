@@ -66,22 +66,18 @@ Digital spending tracker designed to help users manage their personal expenses.
 Ordering and Inventory Management System developed as an academic project.
 
 ### 🧾 SynCollect+
-Debt Collection Management System presented to a real client.
+Debt Collection Management System for Top Priority Collection Agency.
 
-### ❤️ Hati *(Capstone Project)*
+### 🐸 HATI *(Capstone Project)*
 A virtual companion that helps individuals with social anxiety symptoms recreate daily social situations and reflect on their responses.
 
 ---
 
-# 🌱 Currently Learning
+# 🌱 Intrested Learning
 
 🛡️ Cybersecurity
 
 🐧 Linux
-
-🌐 PHP
-
-📱 Flutter & Dart
 
 ☁️ Network Security
 
@@ -98,14 +94,22 @@ A virtual companion that helps individuals with social anxiety symptoms recreate
 
 # 📫 Connect with Me
 
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preciousmae.taleon@gmail.com)
+<p align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-mae-taleon)
+<a href="mailto:preciousmae.taleon@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/precious-mae-taleon-344951319?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### ✨ "Every expert was once a beginner."
+### "Carpe diem quam minimum credula postero."
 
 </div>
