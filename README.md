@@ -4,9 +4,7 @@
 
 ### Bachelor of Science in Information Technology Student
 **Major in Network Information System**
-
 📍 West Visayas State University
-
 *"It is better to learn late than to never learn it at all."*
 
 </div>
@@ -15,10 +13,9 @@
 
 ## About Me
 
-• Aspiring **Cybersecurity Professional**
-• Interested in **Ethical Hacking**, **Digital Forensics**, and **Network Security**
-• I enjoy creating projects that solve real-world problems while continuously improving my technical skills.
-• Outside technology, you'll usually find me reading, writing, or drawing.
+• Interested in **Ethical Hacking**, **Digital Forensics**, and **Network Security** <br>
+• I enjoy creating projects in line with my interests while continuously improving my technical skills. <br>
+• Outside technology, you'll usually find me unleashing my turmoil through writing or reading. <br>
 
 ---
 
@@ -29,13 +26,11 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Frameworks
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Databases
 
@@ -44,10 +39,8 @@
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-34A853?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge)
 ![Packet Tracer](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge)
@@ -55,6 +48,9 @@
 ---
 
 # Featured Projects
+
+### 🐸 HATI *(Capstone Project)*
+A virtual companion that helps individuals with social anxiety symptoms recreate daily social situations and reflect on their responses.
 
 ### 💸 Spendex
 Digital spending tracker designed to help users manage their personal expenses.
@@ -65,9 +61,6 @@ Ordering and Inventory Management System developed as an academic project.
 ### 📋 SynCollect+
 Debt Collection Management System for Top Priority Collection Agency.
 
-### 🐸 HATI *(Capstone Project)*
-A virtual companion that helps individuals with social anxiety symptoms recreate daily social situations and reflect on their responses.
-
 ---
 
 # 2026 Goals
@@ -75,7 +68,6 @@ A virtual companion that helps individuals with social anxiety symptoms recreate
 - Build cybersecurity projects
 - Become comfortable using Linux
 - Learn Git & GitHub workflows
-- Contribute to Open Source
 
 ---
 
