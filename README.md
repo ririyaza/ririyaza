@@ -3,8 +3,8 @@
 # Hello, I'm Precious!
 
 ### Bachelor of Science in Information Technology Student
-**Major in Network Information System**
-📍 West Visayas State University
+**Major in Network Information System** <br>
+📍 West Visayas State University <br>
 *"It is better to learn late than to never learn it at all."*
 
 </div>
